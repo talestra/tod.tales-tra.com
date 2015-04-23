@@ -5,7 +5,7 @@
   <p>Por defecto se sustituirá el opening americano del juego por el japonés. Si prefirieras tener el americano, desactiva la casilla <em>Opening JAP</em>.</p>
   <p>Para más información, pásate por la sección <a href="faq.html">FAQ</a> (preguntas más frecuentes).</p>
   <p>&nbsp;</p>
-  <div align="center"><img src="../img/descargar.jpg" alt="Descargar parcheador" width="314" height="171" border="0" usemap="#Map" />
+  <div align="center"><img src="img/descargar.jpg" alt="Descargar parcheador" width="314" height="171" border="0" usemap="#Map" />
     <map name="Map" id="Map">
       <area shape="rect" coords="50,46,265,124" href="http://tracker.tales-tra.com/download.php?h=59198aecaf01a37995309fb82fd5e83b19e671f0&amp;l=0" alt="Descargar parcheador" />
     </map>
