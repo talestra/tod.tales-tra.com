@@ -7,7 +7,7 @@
   <p>&nbsp;</p>
   <div align="center"><img src="img/descargar.jpg" alt="Descargar parcheador" width="314" height="171" border="0" usemap="#Map" />
     <map name="Map" id="Map">
-      <area shape="rect" coords="50,46,265,124" href="http://tracker.tales-tra.com/download.php?h=59198aecaf01a37995309fb82fd5e83b19e671f0&amp;l=0" alt="Descargar parcheador" />
+      <area shape="rect" coords="50,46,265,124" href="https://github.com/talestra/tod.tales-tra.com/releases/download/v1.0/tod-esp_v1.0.zip" alt="Descargar parcheador" />
     </map>
   </div>
 </div>
